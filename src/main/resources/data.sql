@@ -1,0 +1,1 @@
+insert into booking (booking_id,user_id,bus_id,date_of_journey,total_amount_paid)values(101,'APA','HYBO','2020-05-08',1234);
